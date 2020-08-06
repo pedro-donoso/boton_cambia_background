@@ -1,4 +1,4 @@
 https://pedro-donoso.github.io/boton_cambia_background/
 
-# previamente
+# Boton cambia background
  cambiar background botones bootstrap
